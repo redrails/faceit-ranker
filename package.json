@@ -1,0 +1,23 @@
+{
+  "name": "faceit-ranker",
+  "version": "1.0.0",
+  "description": "Faceit ranker for the fugging bois",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redrails/faceit-ranker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redrails/faceit-ranker/issues"
+  },
+  "homepage": "https://github.com/redrails/faceit-ranker#readme"
+}
