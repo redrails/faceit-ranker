@@ -1,14 +1,20 @@
 const R = require("ramda");
 
 const data = require('./data.json');
+const all_players = data.players;
 
 const getPlayer = (name, data) => data.players.find(player => player.nickname == name);
 
-// const calcAvgRoundsPlayers = players => {
-//   R.sum(R.filter(player => player.stats.Rounds, players))/R.length(players);
-// }
+const getKD = (player) => player.stats["Average K/D Ratio"];
+const getRounds = (player) => parseInt(player.stats.Rounds);
 
-const x = R.sum(R.filter(player => player.stats.Rounds));
+// This is a troll way of doing it but it works 
+var addRounds = (a, player) => a + getRounds(player);
+const calcAvgRoundsPlayers = players => {
+  return R.reduce(addRounds, 0, players)/R.length(players);
+}
+
+var x = calcAvgRoundsPlayers;
 
 // // const getRating = data => {
 
@@ -27,8 +33,11 @@ people_online = [
   getPlayer("ZeD4nnY", data)
 ]
 
+// Average rounds of people online
 console.log(x(people_online));
 
+// Average rounds of everyone in hub
+console.log(x(all_players));
 
 // ```
 // [top_half, bottom_half] = order(avg_kills)[::num_players/2] minus 25% rounds played penalty
