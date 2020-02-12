@@ -1,232 +1,232 @@
 {
-  "rounds": [
-      {
-          "best_of": "1",
-          "competition_id": null,
-          "game_id": "csgo",
-          "game_mode": "5v5",
-          "match_id": "1-3208f1b0-3b97-4f85-bd09-9e28f5218a7a",
-          "match_round": "1",
-          "played": "1",
-          "round_stats": {
-              "Region": "EU",
-              "Map": "de_train",
-              "Winner": "de157cff-214e-4356-a8da-8855b34c6ed5",
-              "Rounds": "34",
-              "Score": "15 / 19"
-          },
-          "teams": [
-              {
-                  "team_id": "433a409b-4953-42f9-9d7c-f6246479e832",
-                  "premade": false,
-                  "team_stats": {
-                      "First Half Score": "9",
-                      "Team Win": "0",
-                      "Final Score": "15",
-                      "Second Half Score": "6",
-                      "Team": "team_Kenconut",
-                      "Team Headshot": "6.4",
-                      "Overtime score": "0"
-                  },
-                  "players": [
-                      {
-                          "player_id": "433a409b-4953-42f9-9d7c-f6246479e832",
-                          "nickname": "Kenconut",
-                          "player_stats": {
-                              "K/D Ratio": "0.36",
-                              "Headshot": "3",
-                              "Quadro Kills": "0",
-                              "Kills": "10",
-                              "MVPs": "0",
-                              "Result": "0",
-                              "Triple Kills": "0",
-                              "Headshots %": "30",
-                              "Penta Kills": "0",
-                              "K/R Ratio": "0.29",
-                              "Deaths": "28",
-                              "Assists": "6"
-                          }
-                      },
-                      {
-                          "player_id": "05203f86-a227-4ada-8871-63fedb1cbd58",
-                          "nickname": "j_dez",
-                          "player_stats": {
-                              "Headshot": "6",
-                              "Result": "0",
-                              "Deaths": "25",
-                              "Triple Kills": "0",
-                              "Headshots %": "29",
-                              "Kills": "21",
-                              "Assists": "3",
-                              "K/D Ratio": "0.84",
-                              "MVPs": "3",
-                              "K/R Ratio": "0.62",
-                              "Penta Kills": "1",
-                              "Quadro Kills": "0"
-                          }
-                      },
-                      {
-                          "player_id": "6f50e9a4-df93-4faf-89df-c3475a8dd053",
-                          "nickname": "G_Dez",
-                          "player_stats": {
-                              "Result": "0",
-                              "Headshot": "6",
-                              "Kills": "25",
-                              "Penta Kills": "0",
-                              "Assists": "4",
-                              "Headshots %": "24",
-                              "Triple Kills": "3",
-                              "K/R Ratio": "0.74",
-                              "Quadro Kills": "0",
-                              "K/D Ratio": "1",
-                              "MVPs": "5",
-                              "Deaths": "25"
-                          }
-                      },
-                      {
-                          "player_id": "27e84e07-f36a-40d1-8d0e-69b52a66f522",
-                          "nickname": "ADAX_",
-                          "player_stats": {
-                              "Triple Kills": "1",
-                              "K/R Ratio": "0.94",
-                              "K/D Ratio": "1.1",
-                              "MVPs": "5",
-                              "Headshots %": "31",
-                              "Kills": "32",
-                              "Penta Kills": "0",
-                              "Quadro Kills": "1",
-                              "Assists": "4",
-                              "Result": "0",
-                              "Headshot": "10",
-                              "Deaths": "29"
-                          }
-                      },
-                      {
-                          "player_id": "45098f20-f388-4327-962c-8fa29fed35dc",
-                          "nickname": "ZeD4nnY",
-                          "player_stats": {
-                              "Deaths": "24",
-                              "Headshots %": "54",
-                              "K/D Ratio": "0.54",
-                              "Kills": "13",
-                              "Triple Kills": "0",
-                              "Penta Kills": "0",
-                              "Headshot": "7",
-                              "Assists": "5",
-                              "MVPs": "2",
-                              "Quadro Kills": "0",
-                              "K/R Ratio": "0.38",
-                              "Result": "0"
-                          }
-                      }
-                  ]
-              },
-              {
-                  "team_id": "de157cff-214e-4356-a8da-8855b34c6ed5",
-                  "premade": false,
-                  "team_stats": {
-                      "Second Half Score": "9",
-                      "Team": "team_redrails",
-                      "Team Win": "1",
-                      "Final Score": "19",
-                      "First Half Score": "6",
-                      "Team Headshot": "9.2",
-                      "Overtime score": "4"
-                  },
-                  "players": [
-                      {
-                          "player_id": "de157cff-214e-4356-a8da-8855b34c6ed5",
-                          "nickname": "redrails",
-                          "player_stats": {
-                              "Quadro Kills": "0",
-                              "Assists": "2",
-                              "Penta Kills": "0",
-                              "K/D Ratio": "0.65",
-                              "Triple Kills": "0",
-                              "Result": "1",
-                              "Headshot": "5",
-                              "K/R Ratio": "0.38",
-                              "Kills": "13",
-                              "Deaths": "20",
-                              "Headshots %": "38",
-                              "MVPs": "3"
-                          }
-                      },
-                      {
-                          "player_id": "f17f7bfd-f31d-4e60-9a75-d182a14d2567",
-                          "nickname": "Lingy",
-                          "player_stats": {
-                              "K/D Ratio": "1.64",
-                              "Result": "1",
-                              "Headshots %": "39",
-                              "Headshot": "14",
-                              "K/R Ratio": "1.06",
-                              "Deaths": "22",
-                              "Quadro Kills": "0",
-                              "Penta Kills": "0",
-                              "MVPs": "4",
-                              "Assists": "4",
-                              "Kills": "36",
-                              "Triple Kills": "3"
-                          }
-                      },
-                      {
-                          "player_id": "b9b5b9fc-a5d6-4398-bb69-35decdca1ae5",
-                          "nickname": "DyyLN",
-                          "player_stats": {
-                              "Headshots %": "39",
-                              "Deaths": "20",
-                              "Triple Kills": "2",
-                              "Headshot": "11",
-                              "K/D Ratio": "1.4",
-                              "Penta Kills": "0",
-                              "Quadro Kills": "0",
-                              "Kills": "28",
-                              "K/R Ratio": "0.82",
-                              "Assists": "5",
-                              "MVPs": "4",
-                              "Result": "1"
-                          }
-                      },
-                      {
-                          "player_id": "0814c40f-c60d-4374-a4d1-2dac58295e7b",
-                          "nickname": "paintboy55",
-                          "player_stats": {
-                              "Result": "1",
-                              "Deaths": "20",
-                              "Quadro Kills": "1",
-                              "Kills": "31",
-                              "Triple Kills": "2",
-                              "K/D Ratio": "1.55",
-                              "Assists": "6",
-                              "Penta Kills": "0",
-                              "MVPs": "4",
-                              "K/R Ratio": "0.91",
-                              "Headshots %": "16",
-                              "Headshot": "5"
-                          }
-                      },
-                      {
-                          "player_id": "ac7ae9f6-2969-48e0-9a3a-08c3d028b36e",
-                          "nickname": "PerfectMex",
-                          "player_stats": {
-                              "Quadro Kills": "0",
-                              "Deaths": "19",
-                              "Triple Kills": "2",
-                              "K/D Ratio": "1.21",
-                              "Result": "1",
-                              "Headshot": "11",
-                              "Assists": "8",
-                              "MVPs": "4",
-                              "K/R Ratio": "0.68",
-                              "Penta Kills": "0",
-                              "Kills": "23",
-                              "Headshots %": "48"
-                          }
-                      }
-                  ]
-              }
-          ]
-      }
-  ]
+    "rounds": [
+        {
+            "best_of": "1",
+            "competition_id": null,
+            "game_id": "csgo",
+            "game_mode": "5v5",
+            "match_id": "1-8bee6a6d-ba96-4dd5-b1c2-a31767e9425e",
+            "match_round": "1",
+            "played": "1",
+            "round_stats": {
+                "Score": "16 / 12",
+                "Map": "de_cache",
+                "Rounds": "28",
+                "Region": "EU",
+                "Winner": "de157cff-214e-4356-a8da-8855b34c6ed5"
+            },
+            "teams": [
+                {
+                    "team_id": "de157cff-214e-4356-a8da-8855b34c6ed5",
+                    "premade": false,
+                    "team_stats": {
+                        "First Half Score": "4",
+                        "Team": "team_redrails",
+                        "Team Win": "1",
+                        "Team Headshot": "8.2",
+                        "Second Half Score": "12",
+                        "Final Score": "16",
+                        "Overtime score": "0"
+                    },
+                    "players": [
+                        {
+                            "player_id": "de157cff-214e-4356-a8da-8855b34c6ed5",
+                            "nickname": "redrails",
+                            "player_stats": {
+                                "Penta Kills": "0",
+                                "K/R Ratio": "0.29",
+                                "K/D Ratio": "0.42",
+                                "Headshots %": "38",
+                                "Result": "1",
+                                "Triple Kills": "1",
+                                "Quadro Kills": "0",
+                                "Headshot": "3",
+                                "Kills": "8",
+                                "Assists": "6",
+                                "Deaths": "19",
+                                "MVPs": "1"
+                            }
+                        },
+                        {
+                            "player_id": "b9b5b9fc-a5d6-4398-bb69-35decdca1ae5",
+                            "nickname": "DyyLN",
+                            "player_stats": {
+                                "Triple Kills": "2",
+                                "Assists": "3",
+                                "Headshots %": "27",
+                                "Result": "1",
+                                "Headshot": "4",
+                                "Penta Kills": "0",
+                                "K/D Ratio": "0.88",
+                                "Deaths": "17",
+                                "Kills": "15",
+                                "Quadro Kills": "0",
+                                "K/R Ratio": "0.54",
+                                "MVPs": "4"
+                            }
+                        },
+                        {
+                            "player_id": "f33ad150-0fbf-4339-905b-af392c63302d",
+                            "nickname": "Das_Panda",
+                            "player_stats": {
+                                "Penta Kills": "0",
+                                "K/D Ratio": "1.12",
+                                "Triple Kills": "1",
+                                "Headshots %": "56",
+                                "Result": "1",
+                                "Headshot": "10",
+                                "Quadro Kills": "0",
+                                "K/R Ratio": "0.64",
+                                "Kills": "18",
+                                "Assists": "5",
+                                "Deaths": "16",
+                                "MVPs": "1"
+                            }
+                        },
+                        {
+                            "player_id": "8f07ab8d-98fa-42eb-823b-672f5517e362",
+                            "nickname": "Muzty",
+                            "player_stats": {
+                                "Triple Kills": "3",
+                                "Kills": "30",
+                                "MVPs": "4",
+                                "Penta Kills": "0",
+                                "Assists": "9",
+                                "K/R Ratio": "1.07",
+                                "K/D Ratio": "1.58",
+                                "Quadro Kills": "1",
+                                "Result": "1",
+                                "Headshot": "14",
+                                "Deaths": "19",
+                                "Headshots %": "47"
+                            }
+                        },
+                        {
+                            "player_id": "0814c40f-c60d-4374-a4d1-2dac58295e7b",
+                            "nickname": "paintboy55",
+                            "player_stats": {
+                                "MVPs": "6",
+                                "Deaths": "19",
+                                "Penta Kills": "0",
+                                "Assists": "1",
+                                "Result": "1",
+                                "Triple Kills": "4",
+                                "K/R Ratio": "1.14",
+                                "Headshot": "10",
+                                "Quadro Kills": "0",
+                                "Kills": "32",
+                                "K/D Ratio": "1.68",
+                                "Headshots %": "31"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team_id": "45098f20-f388-4327-962c-8fa29fed35dc",
+                    "premade": false,
+                    "team_stats": {
+                        "Second Half Score": "1",
+                        "Team Headshot": "5.2",
+                        "Final Score": "12",
+                        "Team": "team_ZeD4nnY",
+                        "Team Win": "0",
+                        "Overtime score": "0",
+                        "First Half Score": "11"
+                    },
+                    "players": [
+                        {
+                            "player_id": "45098f20-f388-4327-962c-8fa29fed35dc",
+                            "nickname": "ZeD4nnY",
+                            "player_stats": {
+                                "K/R Ratio": "0.43",
+                                "K/D Ratio": "0.52",
+                                "Headshots %": "25",
+                                "Deaths": "23",
+                                "Result": "0",
+                                "MVPs": "1",
+                                "Headshot": "3",
+                                "Triple Kills": "0",
+                                "Penta Kills": "0",
+                                "Kills": "12",
+                                "Quadro Kills": "0",
+                                "Assists": "5"
+                            }
+                        },
+                        {
+                            "player_id": "f17f7bfd-f31d-4e60-9a75-d182a14d2567",
+                            "nickname": "Lingy",
+                            "player_stats": {
+                                "Triple Kills": "0",
+                                "Headshots %": "28",
+                                "Result": "0",
+                                "Kills": "18",
+                                "Deaths": "19",
+                                "Quadro Kills": "0",
+                                "MVPs": "3",
+                                "Assists": "7",
+                                "K/R Ratio": "0.64",
+                                "K/D Ratio": "0.95",
+                                "Headshot": "5",
+                                "Penta Kills": "0"
+                            }
+                        },
+                        {
+                            "player_id": "6f50e9a4-df93-4faf-89df-c3475a8dd053",
+                            "nickname": "G_Dez",
+                            "player_stats": {
+                                "Headshots %": "26",
+                                "Result": "0",
+                                "K/D Ratio": "1.35",
+                                "Headshot": "7",
+                                "Quadro Kills": "1",
+                                "Assists": "3",
+                                "Triple Kills": "0",
+                                "Penta Kills": "0",
+                                "MVPs": "6",
+                                "Kills": "27",
+                                "Deaths": "20",
+                                "K/R Ratio": "0.96"
+                            }
+                        },
+                        {
+                            "player_id": "ac7ae9f6-2969-48e0-9a3a-08c3d028b36e",
+                            "nickname": "PerfectMex",
+                            "player_stats": {
+                                "Deaths": "22",
+                                "Quadro Kills": "0",
+                                "Kills": "15",
+                                "K/D Ratio": "0.68",
+                                "Result": "0",
+                                "Headshots %": "40",
+                                "MVPs": "0",
+                                "Penta Kills": "0",
+                                "Assists": "4",
+                                "K/R Ratio": "0.54",
+                                "Headshot": "6",
+                                "Triple Kills": "0"
+                            }
+                        },
+                        {
+                            "player_id": "05203f86-a227-4ada-8871-63fedb1cbd58",
+                            "nickname": "j_dez",
+                            "player_stats": {
+                                "Quadro Kills": "0",
+                                "Kills": "18",
+                                "Result": "0",
+                                "Assists": "5",
+                                "Penta Kills": "0",
+                                "Headshot": "5",
+                                "Triple Kills": "2",
+                                "Deaths": "19",
+                                "Headshots %": "28",
+                                "K/D Ratio": "0.95",
+                                "MVPs": "2",
+                                "K/R Ratio": "0.64"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

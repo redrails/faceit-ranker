@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+from tabulate import tabulate
 
 # LOAD DATA, NEEDS TO BE AN API CALL IN FUTURE
 with open('./match.json') as f:
@@ -31,13 +32,14 @@ del team2playersdf["player_id"]
 
 # Set data types to floats so that we can calculate stuff on them
 team1playersdf = team1playersdf.astype('float32')
-team1playersdf = team1playersdf.astype('float32')
+team2playersdf = team2playersdf.astype('float32')
 
 # NOT SURE WHAT THE FUCK IS HAPPENING HERE
 pd.options.display.max_columns = team1playersdf.shape[1]
 pd.options.display.max_columns = team2playersdf.shape[1]
 
-print(team1playersdf.describe(include='all'))
+
+print(tabulate(team2playersdf.describe(include='all'), headers='keys', tablefmt='psql'))
 
 
 
