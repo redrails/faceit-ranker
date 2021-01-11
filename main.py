@@ -20,10 +20,13 @@ def isgood(player, stat):
   selected_player_stat = selected_player[stat]
   if(selected_player_stat < df[stat].mean()):
     return "you are shite"
-  else: 
+  else:
     return "you are average"
 
 df.sort_values('stats.Average Kills', inplace=True, ascending=False)
+
+#print(df)
+
 # print(df.describe(include='all'))
 print(df['stats.Average Kills'])
 # print(isgood('G_Dez', 'stats.Average Deaths'))
